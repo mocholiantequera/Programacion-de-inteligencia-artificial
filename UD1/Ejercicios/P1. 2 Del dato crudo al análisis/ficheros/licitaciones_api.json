@@ -1,0 +1,97 @@
+{
+  "meta": {
+    "fuente": "API de ejemplo para la práctica P1.2 del módulo 5073",
+    "generado": "2026-09-01T08:00:00",
+    "version": "1.2",
+    "total": 8,
+    "aviso": "Datos ficticios inspirados en la estructura de la Plataforma de Contratación del Sector Público. No corresponden a licitaciones reales."
+  },
+  "licitaciones": [
+    {
+      "id": "2026-API-0001",
+      "organo": "Ayuntamiento de Valencia",
+      "objeto": "Suministro de servidores de cálculo para el centro de proceso de datos municipal",
+      "importe": 184500.0,
+      "moneda": "EUR",
+      "cpv": "48820000",
+      "fechaLimite": "2026-10-15T14:00:00",
+      "estado": "publicada",
+      "lotes": 2
+    },
+    {
+      "id": "2026-API-0002",
+      "organo": "Generalitat Valenciana - Conselleria de Educación",
+      "objeto": "Servicio de mantenimiento de la plataforma educativa Aules",
+      "importe": 742000.5,
+      "moneda": "EUR",
+      "cpv": "72267100",
+      "fechaLimite": "2026-11-03T23:59:00",
+      "estado": "publicada",
+      "lotes": 1
+    },
+    {
+      "id": "2026-API-0003",
+      "organo": "Universitat Politècnica de València",
+      "objeto": "Adquisición de licencias de software de análisis de datos",
+      "importe": 96300.0,
+      "moneda": "EUR",
+      "cpv": "48460000",
+      "fechaLimite": "2026-10-28T12:00:00",
+      "estado": "publicada",
+      "lotes": 3
+    },
+    {
+      "id": "2026-API-0004",
+      "organo": "Diputación de Alicante",
+      "objeto": "Consultoría para la implantación de un sistema de mantenimiento predictivo",
+      "importe": -12000.0,
+      "moneda": "EUR",
+      "cpv": "72220000",
+      "fechaLimite": "2026-12-01T14:00:00",
+      "estado": "publicada",
+      "lotes": 1
+    },
+    {
+      "id": "2026-API-0005",
+      "organo": "Ayuntamiento de Castellón",
+      "objeto": "Renovación de la red de sensores de calidad del aire",
+      "importe": 315800.0,
+      "moneda": "EUR",
+      "cpv": "38341000",
+      "estado": "publicada",
+      "lotes": 4
+    },
+    {
+      "id": "2026-API-0006",
+      "organo": "Generalitat Valenciana - Conselleria de Sanidad",
+      "objeto": "Suministro de estaciones de trabajo para diagnóstico por imagen",
+      "importe": "no disponible",
+      "moneda": "EUR",
+      "cpv": "33111000",
+      "fechaLimite": "2026-11-20T14:00:00",
+      "estado": "publicada",
+      "lotes": 2
+    },
+    {
+      "id": "2026-API-0007",
+      "organo": "Ayuntamiento de Valencia",
+      "objeto": "Servicio de análisis de datos de movilidad urbana",
+      "importe": 128400.0,
+      "moneda": "EUR",
+      "cpv": "72316000",
+      "fechaLimite": "2026-10-09T14:00:00",
+      "estado": "adjudicada",
+      "lotes": 1
+    },
+    {
+      "organo": "Universitat de València",
+      "objeto": "Mantenimiento de infraestructura de cálculo de altas prestaciones",
+      "importe": 258000.0,
+      "moneda": "EUR",
+      "cpv": "50312000",
+      "fechaLimite": "2026-11-15T14:00:00",
+      "estado": "publicada",
+      "lotes": 1
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Extracto simplificado, con fines docentes, de la estructura del canal Atom que
+  publica la Plataforma de Contratación del Sector Público. Los datos son ficticios.
+  Se conservan los espacios de nombres porque son la dificultad real del ejercicio.
+-->
+<feed xmlns="http://www.w3.org/2005/Atom"
+      xmlns:cbc="urn:dgpe:names:draft:codice:schema:xsd:CommonBasicComponents-2"
+      xmlns:cac="urn:dgpe:names:draft:codice:schema:xsd:CommonAggregateComponents-2">
+
+  <title>Licitaciones publicadas - extracto docente</title>
+  <updated>2026-09-01T08:00:00+02:00</updated>
+  <id>urn:ejemplo:modulo5073:extracto</id>
+
+  <entry>
+    <id>urn:ejemplo:licitacion:2026-XML-0101</id>
+    <title>Suministro de equipamiento de red para centros educativos</title>
+    <updated>2026-08-28T11:20:00+02:00</updated>
+    <cac:ContractFolderStatus>
+      <cbc:ContractFolderID>2026-XML-0101</cbc:ContractFolderID>
+      <cbc:ContractFolderStatusCode>PUB</cbc:ContractFolderStatusCode>
+      <cac:LocatedContractingParty>
+        <cac:Party>
+          <cac:PartyName>
+            <cbc:Name>Generalitat Valenciana - Conselleria de Educación</cbc:Name>
+          </cac:PartyName>
+        </cac:Party>
+      </cac:LocatedContractingParty>
+      <cac:ProcurementProject>
+        <cbc:Name>Suministro de equipamiento de red para centros educativos</cbc:Name>
+        <cbc:TypeCode>1</cbc:TypeCode>
+        <cac:BudgetAmount>
+          <cbc:TotalAmount currencyID="EUR">1245000.00</cbc:TotalAmount>
+        </cac:BudgetAmount>
+      </cac:ProcurementProject>
+      <cac:TenderingProcess>
+        <cac:TenderSubmissionDeadlinePeriod>
+          <cbc:EndDate>2026-10-20</cbc:EndDate>
+          <cbc:EndTime>14:00:00</cbc:EndTime>
+        </cac:TenderSubmissionDeadlinePeriod>
+      </cac:TenderingProcess>
+    </cac:ContractFolderStatus>
+  </entry>
+
+  <entry>
+    <id>urn:ejemplo:licitacion:2026-XML-0102</id>
+    <title>Servicio de digitalización del archivo histórico municipal</title>
+    <updated>2026-08-29T09:05:00+02:00</updated>
+    <cac:ContractFolderStatus>
+      <cbc:ContractFolderID>2026-XML-0102</cbc:ContractFolderID>
+      <cbc:ContractFolderStatusCode>PUB</cbc:ContractFolderStatusCode>
+      <cac:LocatedContractingParty>
+        <cac:Party>
+          <cac:PartyName>
+            <cbc:Name>Ayuntamiento de Alicante</cbc:Name>
+          </cac:PartyName>
+        </cac:Party>
+      </cac:LocatedContractingParty>
+      <cac:ProcurementProject>
+        <cbc:Name>Servicio de digitalización del archivo histórico municipal</cbc:Name>
+        <cbc:TypeCode>2</cbc:TypeCode>
+        <cac:BudgetAmount>
+          <cbc:TotalAmount currencyID="EUR">89750.00</cbc:TotalAmount>
+        </cac:BudgetAmount>
+      </cac:ProcurementProject>
+      <cac:TenderingProcess>
+        <cac:TenderSubmissionDeadlinePeriod>
+          <cbc:EndDate>2026-10-05</cbc:EndDate>
+          <cbc:EndTime>23:59:00</cbc:EndTime>
+        </cac:TenderSubmissionDeadlinePeriod>
+      </cac:TenderingProcess>
+    </cac:ContractFolderStatus>
+  </entry>
+
+  <entry>
+    <id>urn:ejemplo:licitacion:2026-XML-0103</id>
+    <title>Plataforma de análisis de datos de tráfico con inteligencia artificial</title>
+    <updated>2026-08-30T16:40:00+02:00</updated>
+    <cac:ContractFolderStatus>
+      <cbc:ContractFolderID>2026-XML-0103</cbc:ContractFolderID>
+      <cbc:ContractFolderStatusCode>PUB</cbc:ContractFolderStatusCode>
+      <cac:LocatedContractingParty>
+        <cac:Party>
+          <cac:PartyName>
+            <cbc:Name>Ayuntamiento de Valencia</cbc:Name>
+          </cac:PartyName>
+        </cac:Party>
+      </cac:LocatedContractingParty>
+      <cac:ProcurementProject>
+        <cbc:Name>Plataforma de análisis de datos de tráfico con inteligencia artificial</cbc:Name>
+        <cbc:TypeCode>2</cbc:TypeCode>
+        <cac:BudgetAmount>
+          <cbc:TotalAmount currencyID="EUR">467200.00</cbc:TotalAmount>
+        </cac:BudgetAmount>
+      </cac:ProcurementProject>
+      <cac:TenderingProcess>
+        <cac:TenderSubmissionDeadlinePeriod>
+          <cbc:EndDate>2026-11-12</cbc:EndDate>
+          <cbc:EndTime>14:00:00</cbc:EndTime>
+        </cac:TenderSubmissionDeadlinePeriod>
+      </cac:TenderingProcess>
+    </cac:ContractFolderStatus>
+  </entry>
+
+  <entry>
+    <id>urn:ejemplo:licitacion:2026-XML-0104</id>
+    <title>Suministro de licencias de plataforma cloud para investigación</title>
+    <updated>2026-08-31T10:10:00+02:00</updated>
+    <cac:ContractFolderStatus>
+      <cbc:ContractFolderID>2026-XML-0104</cbc:ContractFolderID>
+      <cbc:ContractFolderStatusCode>PUB</cbc:ContractFolderStatusCode>
+      <cac:LocatedContractingParty>
+        <cac:Party>
+          <cac:PartyName>
+            <cbc:Name>Universitat Politècnica de València</cbc:Name>
+          </cac:PartyName>
+        </cac:Party>
+      </cac:LocatedContractingParty>
+      <cac:ProcurementProject>
+        <cbc:Name>Suministro de licencias de plataforma cloud para investigación</cbc:Name>
+        <cbc:TypeCode>1</cbc:TypeCode>
+        <cac:BudgetAmount>
+          <cbc:TotalAmount currencyID="EUR">203400.00</cbc:TotalAmount>
+        </cac:BudgetAmount>
+      </cac:ProcurementProject>
+      <cac:TenderingProcess>
+        <cac:TenderSubmissionDeadlinePeriod>
+          <cbc:EndDate>2026-10-30</cbc:EndDate>
+          <cbc:EndTime>12:00:00</cbc:EndTime>
+        </cac:TenderSubmissionDeadlinePeriod>
+      </cac:TenderingProcess>
+    </cac:ContractFolderStatus>
+  </entry>
+
+</feed>
